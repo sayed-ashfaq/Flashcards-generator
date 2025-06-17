@@ -1,0 +1,1 @@
+print('This is to build the Flash Card generator to prepare well for the topics')
